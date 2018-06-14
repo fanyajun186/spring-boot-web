@@ -73,6 +73,7 @@
 		    <artifactId>spring-session-data-redis</artifactId>
 		</dependency>	
 				
+		<!-- third tool -->
 		<dependency>
 		  	<groupId>org.apache.activemq</groupId>
 		  	<artifactId>activemq-all</artifactId>
@@ -83,11 +84,18 @@
 			<artifactId>solr-solrj</artifactId>
 		</dependency>
 		
+		<!-- util -->
 		<dependency>
              <groupId>com.google.zxing</groupId>
              <artifactId>core</artifactId>
              <version>3.3.2</version>
          </dependency>
+         
+         <dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-lang3</artifactId>
+		    <version>3.7</version>
+		 </dependency>
 	
 	</dependencies>
 	
