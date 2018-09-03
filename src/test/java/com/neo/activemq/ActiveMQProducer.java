@@ -12,7 +12,7 @@ import org.junit.Test;
 
 public class ActiveMQProducer {
 
-  //Quqe方式发送消息
+    //Quqe方式发送消息
     @Test
     public void sendQuqes() throws Exception{
         //1.连接mq
@@ -36,6 +36,5 @@ public class ActiveMQProducer {
         session.close();
         connection.close();
     }
-
     
 }
