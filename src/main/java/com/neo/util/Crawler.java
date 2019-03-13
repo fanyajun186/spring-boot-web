@@ -18,14 +18,19 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
+/**
+ * 爬虫
+ * @author fan
+ *
+ */
 public class Crawler {
 	
     public static void main(String[] args) throws Exception {   	
     	
-        String url = "http://www.wubupua.com/html/7203.html";        
+        String url = "http://www.wubupua.com/html/7203.html";   
+       
         String elementType="img";
-        String keyWord="upload";
-        
+        String keyWord="upload";        
         getData(url,elementType,keyWord);
     }
 
