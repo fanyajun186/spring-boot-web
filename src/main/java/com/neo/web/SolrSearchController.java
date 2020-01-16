@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.neo.domain.SearchResult;
-import com.neo.service.SearchService;
+import com.neo.service.impl.SearchService;
 import com.neo.util.RespDTO;
 
 
