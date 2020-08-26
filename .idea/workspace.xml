@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf2232e5-dc9d-4c4d-a501-9fc055294a61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neo/service/impl/SearchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neo/util/GitUtils1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neo/util/GitUtils2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="spring-boot-web" />
@@ -33,9 +36,6 @@
     </option>
   </component>
   <component name="ProjectId" id="1WAH5RsXXFwy7PD2E7HkheIcTOm" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,7 +58,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23858616" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -113,6 +113,8 @@
       <workItem from="1578585296779" duration="3256000" />
       <workItem from="1578618918265" duration="34000" />
       <workItem from="1578830973366" duration="2605000" />
+      <workItem from="1589194281634" duration="600000" />
+      <workItem from="1589352134017" duration="1737000" />
     </task>
     <servers />
   </component>
@@ -120,9 +122,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2466" y="125" key="RollbackChangesDialog" timestamp="1598433964640">
+    <state x="2292" y="6" key="CommitChangelistDialog2" timestamp="1589353900034">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state x="2466" y="125" key="RollbackChangesDialog/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1598433964640" />
+    <state x="2292" y="6" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1589353900034" />
+    <state x="2169" y="128" key="DiffContextDialog" timestamp="1589353093840">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2169" y="128" key="DiffContextDialog/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1589353093840" />
+    <state x="2190" y="54" key="SettingsEditor" timestamp="1589352580875">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2190" y="54" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1589352580875" />
+    <state x="2281" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589353904529">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2281" y="145" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1589353904529" />
+    <state x="2363" y="203" key="git4idea.merge.GitPullDialog" timestamp="1589353069751">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2363" y="203" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@1920.0.1536.824" timestamp="1589353069751" />
   </component>
 </project>
