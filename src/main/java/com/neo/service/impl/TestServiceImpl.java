@@ -23,7 +23,8 @@ public class TestServiceImpl{
     private RabbitTemplate rabbitTemplate;
 
     public RespDTO send(Mail mail) {
-        String msgId = RandomUtil.UUID32();
+        //String msgId = RandomUtil.UUID32();
+        String msgId = "123";
         mail.setMsgId(msgId);
 
         MsgLog msgLog = new MsgLog(msgId, mail, RabbitConfig.MAIL_EXCHANGE_NAME, RabbitConfig.MAIL_ROUTING_KEY_NAME);

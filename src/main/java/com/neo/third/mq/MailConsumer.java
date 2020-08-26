@@ -37,7 +37,7 @@ public class MailConsumer {
     	
     	
     	
-        Mail mail = MessageHelper.msgToObj(message, Mail.class);
+      /*  Mail mail = MessageHelper.msgToObj(message, Mail.class);
         
         log.info("收到消息: {}", mail.toString());
 
@@ -60,7 +60,7 @@ public class MailConsumer {
             channel.basicAck(tag, false);// 消费确认
         } else {
             channel.basicNack(tag, false, true);
-        }
+        }*/
     }
 
 }
